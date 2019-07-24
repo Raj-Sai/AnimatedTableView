@@ -1,0 +1,33 @@
+{
+  "Categories" : [
+    {
+        "name" : "Tables & desks",
+      "catType" : "Gather around the table and hear the family news, play a game, help with homework or set your stuff down. With our tables in a wide range of sizes and styles, you’ll find one that fits whatever you want to do in whatever space you have. You can find a table online or test them out in our stores.",
+      "image" : "table",
+      "products" : [
+          {"title" : "Table",
+          "image" : "table1",
+          "info" : "Article no.: 503.546.21\nCan also be used as a bedside table.\nReal wood veneer will make this chest of drawers age gracefully.\nSmooth running drawers with pull-out stop.\nCombines with other furniture in the MALM series.\nThe drawer holds about 5 pairs of folded trousers or 10 T-shirts." },
+          {"title" : "HEMNES",
+          "image" : "HEMNES",
+          "info" : "Dressing table or desk? You don’t need to decide – there’s enough space for both make-up, pens and laptop. The soft shapes create a romantic silhouette that becomes the focal point in the room." },
+          {"title" : "HEMNES-2",
+              "image" : "HEMNES-2",
+              "info" : "Dressing table or desk? You don’t need to decide – there’s enough space for both make-up, pens and laptop. The soft shapes create a romantic silhouette that becomes the focal point in the room." }
+      ]
+    },
+    {
+        "name" : "Sofas & armchairs",
+      "catType" : "Sit back and relax. It’s one of life’s simple pleasures, and it’s all about personal comfort. With a sofa and armchair, everyone in the family can get comfortable. We have all sorts of cosy sofa suites to choose from, so you can find a seating solution to sink into that matches a look you love, too",
+      "image" : "sofa",
+      "products" : [
+          {"title" : "Table",
+              "image" : "table1",
+              "info" : "Article no.: 503.546.21\nCan also be used as a bedside table.\nReal wood veneer will make this chest of drawers age gracefully.\nSmooth running drawers with pull-out stop.\nCombines with other furniture in the MALM series.\nThe drawer holds about 5 pairs of folded trousers or 10 T-shirts." },
+          {"title" : "HEMNES",
+              "image" : "HEMNES",
+              "info" : "Dressing table or desk? You don’t need to decide – there’s enough space for both make-up, pens and laptop. The soft shapes create a romantic silhouette that becomes the focal point in the room." }
+      ]
+    }
+  ]
+}
